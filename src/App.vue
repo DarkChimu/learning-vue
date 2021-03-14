@@ -9,6 +9,7 @@
       <b-navbar-nav>
         <b-nav-item :to="{ name: 'Home'}" exact>Home</b-nav-item>
         <b-nav-item :to="{ name: 'About'}">About</b-nav-item>
+        <b-nav-item :to="{ name: 'Grid'}">Grid</b-nav-item>
       </b-navbar-nav>
 
       <!-- Right aligned nav items -->
