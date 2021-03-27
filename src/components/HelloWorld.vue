@@ -1,5 +1,6 @@
 <template>
   <div class="hello" align="center">
+    <img class="mt-1" alt="Vue logo" width="200px" height="200px" src="../assets/bv-logo.svg">
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
